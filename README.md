@@ -1,6 +1,9 @@
-# course_work_1.0
-Website with three pages: 
+## Sales accounting website
 
-login, adding new orders, viewing all orders with ability to sort
+After authentication with login and password website allows you to add new sales entries and view sort able list of entries.
 
-Static routing.
+1. Express static routing.
+2. Authentication and authorization is implemented using authorization cookies.
+3. Users data and sales entries are stored using connection with MySQL data base.
+4. Page where you can view list of entries, list can be sorted by date period.
+5. Page where you can add several entries to list.
